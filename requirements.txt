@@ -207,7 +207,7 @@ texttable==1.6.2
 tinycss2==1.1.1
 tk==0.1.0
 toml==0.10.2
-tornado==6.2
+tornado==6.3.3
 tox==3.24.5
 traitlets==5.8.0
 trio==0.20.0
