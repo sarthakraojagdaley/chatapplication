@@ -150,7 +150,7 @@ py==1.11.0
 pycairo==1.16.2
 pycparser==2.21
 pycups==1.9.73
-pydantic==1.9.0
+pydantic==2.4.0
 pygame==2.1.2
 Pygments==2.14.0
 PyGObject==3.36.0
