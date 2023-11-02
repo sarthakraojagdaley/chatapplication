@@ -207,7 +207,7 @@ texttable==1.6.2
 tinycss2==1.1.1
 tk==0.1.0
 toml==0.10.2
-tornado==6.2
+tornado==6.3.3
 tox==3.24.5
 traitlets==5.8.0
 trio==0.20.0
@@ -233,7 +233,7 @@ wcwidth==0.2.5
 webdriver-manager==3.5.4
 webencodings==0.5.1
 websocket-client==0.53.0
-Werkzeug==2.2.2
+Werkzeug==3.0.1
 whitenoise==5.3.0
 wrapt==1.11.2
 wsproto==1.1.0
