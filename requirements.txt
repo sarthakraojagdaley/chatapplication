@@ -40,7 +40,7 @@ commonmark==0.9.1
 contextlib2==21.6.0
 contourpy==1.0.6
 cookiecutter==2.1.1
-cryptography==38.0.3
+cryptography==41.0.6
 cssselect==1.1.0
 cupshelpers==1.0
 cycler==0.11.0
