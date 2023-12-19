@@ -130,7 +130,7 @@ outcome==1.1.0
 packaging==22.0
 Panda3D==1.10.12
 pandocfilters==1.5.0
-paramiko==2.6.0
+paramiko==3.4.0
 parsel==1.6.0
 parso==0.8.3
 pbr==5.11.0
