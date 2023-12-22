@@ -73,7 +73,7 @@ fasteners==0.14.1
 fastjsonschema==2.15.3
 filelock==3.6.0
 fonttools==4.38.0
-future==0.18.2
+future==0.18.3
 GDAL==3.3.2
 google-images-download==2.8.0
 gunicorn==20.1.0
