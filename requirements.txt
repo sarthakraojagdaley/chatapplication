@@ -57,7 +57,7 @@ dj-database-url==0.5.0
 Django==3.2
 django-heroku==0.3.1
 django-magicauth @ git+https://github.com/betagouv/django-magicauth.git@9132ff81c8e2ac17751d3f596219d61c4fb4e5db
-djangorestframework==3.14.0
+djangorestframework==3.15.2
 docker==4.1.0
 docker-compose==1.25.0
 dockerpty==0.4.1
