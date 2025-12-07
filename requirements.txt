@@ -54,7 +54,7 @@ distlib==0.3.4
 distro==1.4.0
 distro-info===0.23ubuntu1
 dj-database-url==0.5.0
-Django==3.2
+Django==4.2.27
 django-heroku==0.3.1
 django-magicauth @ git+https://github.com/betagouv/django-magicauth.git@9132ff81c8e2ac17751d3f596219d61c4fb4e5db
 djangorestframework==3.14.0
@@ -194,7 +194,7 @@ six==1.13.0
 sniffio==1.2.0
 sortedcontainers==2.4.0
 soupsieve==1.9.5
-sqlparse==0.4.2
+sqlparse==0.5.4
 stack-data==0.6.2
 starlette==0.17.1
 systemd-python==234
