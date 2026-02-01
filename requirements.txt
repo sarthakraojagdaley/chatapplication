@@ -118,7 +118,7 @@ monotonic==1.5
 more-itertools==4.2.0
 multidict==6.0.4
 nbclient==0.5.13
-nbconvert==6.5.0
+nbconvert==7.17.0
 nbformat==5.3.0
 nest-asyncio==1.5.6
 netifaces==0.10.4
@@ -142,7 +142,7 @@ platformdirs==2.5.4
 pluggy==1.0.0
 prometheus-client==0.14.1
 prompt-toolkit==3.0.36
-protobuf==3.6.1
+protobuf==6.33.5
 psutil==5.9.4
 psycopg2==2.9.3
 pure-eval==0.2.2
